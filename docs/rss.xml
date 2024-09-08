@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://wanderatdusk6.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://wanderatdusk6.github.io</link></image><lastBuildDate>Tue, 30 Jul 2024 12:26:39 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>git config</title><link>https://wanderatdusk6.github.io/post/git%20config.html</link><description>查看默认编辑器&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://wanderatdusk6.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://wanderatdusk6.github.io</link></image><lastBuildDate>Sun, 08 Sep 2024 03:49:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>本地GitHub连接问题（DNS_PROBE_FINISHED_NXDOMAIN） 解决</title><link>https://wanderatdusk6.github.io/post/ben-di-GitHub-lian-jie-wen-ti-%EF%BC%88DNS_PROBE_FINISHED_NXDOMAIN%EF%BC%89%20-jie-jue.html</link><description>' DNS_PROBE_FINISHED_NXDOMAIN ' 报错，提示DNS解析不到域名对应的IP &#13;
+&#13;
+--- &#13;
+&#13;
+搜索“域名解析”， &#13;
+在网站里&#13;
+输入原来访问出错的域名，&#13;
+解析出了几个ip地址，&#13;
+&#13;
+然后一个一个去ping，&#13;
+ping 通的 解析出的ip&#13;
+&#13;
+ping完之后再去打开原来的网站，就能打开了，&#13;
+然后就算直接ping域名，也是ping得通。</description><guid isPermaLink="true">https://wanderatdusk6.github.io/post/ben-di-GitHub-lian-jie-wen-ti-%EF%BC%88DNS_PROBE_FINISHED_NXDOMAIN%EF%BC%89%20-jie-jue.html</guid><pubDate>Sun, 08 Sep 2024 03:48:58 +0000</pubDate></item><item><title>git config</title><link>https://wanderatdusk6.github.io/post/git%20config.html</link><description>查看默认编辑器&#13;
 `git config --global core.editor`&#13;
 配置为vscode&#13;
 `git config --global core.editor code`&#13;
